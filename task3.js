@@ -1,10 +1,10 @@
 
-let weather = ''
-
-if (weather = 'rainy') {
+let weather = 'rainy'
+// console.log(weather);
+if (weather == 'rainy') {
     console.log('please use rainy s dress');
 }
 
-else if (weather = 'not rainy') {
+else if (weather == 'not rainy') {
     console.log('please dont use rainy s dress');
 }
